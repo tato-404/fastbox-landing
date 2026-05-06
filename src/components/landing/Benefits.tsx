@@ -1,20 +1,20 @@
 import { Reveal } from "./Reveal";
 
-// Imagens em /public/images/ — substitua os arquivos para trocar.
+// Imagens em /public/images/ — substitua os arquivos (.svg ou .jpg) para trocar.
 const cards = [
   {
     title: "Snacks",
-    img: "/images/snacks.jpg",
+    img: "/images/snacks.svg",
     desc: "Salgadinhos, chocolates e barras de cereal sempre à mão.",
   },
   {
     title: "Bebidas",
-    img: "/images/bebidas.jpg",
+    img: "/images/bebidas.svg",
     desc: "Água, refrigerantes, sucos e energéticos gelados 24h.",
   },
   {
     title: "Higiene",
-    img: "/images/higiene.jpg",
+    img: "/images/higiene.svg",
     desc: "Itens essenciais de higiene pessoal sem precisar sair de casa.",
   },
 ];
