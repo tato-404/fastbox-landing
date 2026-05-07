@@ -37,7 +37,7 @@ export const Route = createRootRoute({
           "FastBox: minimercado autônomo 24h dentro do seu condomínio. Sem filas, pagamento pelo app e segurança 24/7.",
       },
       { name: "author", content: "FastBox" },
-      { property: "og:title", content: "FastBox — Mercado 24h no seu condomínio" },
+      { property: "og:title", content: "FastBox — Mercado autônomo 24h para o seu condomínio" },
       {
         property: "og:description",
         content:
@@ -45,6 +45,12 @@ export const Route = createRootRoute({
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:title", content: "FastBox — Mercado autônomo 24h para o seu condomínio" },
+      { name: "description", content: "FastBox 24h" },
+      { property: "og:description", content: "FastBox 24h" },
+      { name: "twitter:description", content: "FastBox 24h" },
+      { property: "og:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/CqmXiKsPLFdjK2sajMwWiEewYXk1/social-images/social-1778118903311-logo.webp" },
+      { name: "twitter:image", content: "https://storage.googleapis.com/gpt-engineer-file-uploads/CqmXiKsPLFdjK2sajMwWiEewYXk1/social-images/social-1778118903311-logo.webp" },
     ],
     links: [
       { rel: "preconnect", href: "https://fonts.googleapis.com" },
