@@ -3,18 +3,18 @@ import { Reveal } from "./Reveal";
 // Imagens em /public/images/ — substitua os arquivos (.svg ou .jpg) para trocar.
 const cards = [
   {
-    title: "Snacks",
-    img: "/images/snacks.svg",
+    title: "FastBox",
+    img: "/images/fastbox1.jpeg",
     desc: "Salgadinhos, chocolates e barras de cereal sempre à mão.",
   },
   {
     title: "Bebidas",
-    img: "/images/bebidas.svg",
+    img: "/images/fastbox2.jpeg",
     desc: "Água, refrigerantes, sucos e energéticos gelados 24h.",
   },
   {
     title: "Higiene",
-    img: "/images/higiene.svg",
+    img: "/images/fastbox3.jpeg",
     desc: "Itens essenciais de higiene pessoal sem precisar sair de casa.",
   },
 ];
