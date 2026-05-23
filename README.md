@@ -21,8 +21,7 @@ O objetivo do projeto foi explorar interface, experiência do usuário e constru
 ✅ Publicado
 
 ## Demo
-
-[https://SEU-LINK-VERCEL.vercel.app](https://fastbox-landing-ange.vercel.app/)
+(https://fastbox-landing-ange.vercel.app/)
 
 ## Objetivo
 
